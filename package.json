@@ -1,0 +1,21 @@
+{
+  "name": "gruntttt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "grunt": "^1.0.3",
+    "grunt-contrib-concat": "^1.0.1"
+  },
+  "devDependencies": {
+    "grunt-concat-json": "0.0.10",
+    "grunt-contrib-uglify": "^4.0.0",
+    "grunt-sass": "^3.0.2",
+    "node-sass": "^4.11.0"
+  }
+}
